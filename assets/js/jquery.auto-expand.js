@@ -7,11 +7,12 @@
 //  Copyright 2012 Robbie Bardijn. All rights reserved.
 //
 ;(function($) {
-	$.fn.autoExpand = function(){
-		var defaults = {
-			width : 30 ,
-			height : 20
-		};
+	var _defaults = {
+		width : 20,
+		height : 20
+	};
+	$.fn.autoExpand = function(options){
+		var defaults = $.extend({}, _defaults, options);
 
 		function addText($input) {
 			$input.prev().html(refacttext($input.val())).end()

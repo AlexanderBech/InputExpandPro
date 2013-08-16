@@ -1,15 +1,15 @@
-Auto-expand
+InputExpandPro
 ===========
 
 Jquery plugin wich provides the auto expanding in width and height of inputs and textarea's.
 
 How-to:
 
-* $('form input, form textarea').autoExpand();
-* $('form input').autoExpand();
-* $('input').autoExpand();
-* $('#id_of_input_or_textarea').autoExpand();
-* $('input').autoExpand({ width: 20, height: 20 });
+* $('form input, form textarea').inputExpandPro();
+* $('form input').inputExpandPro();
+* $('input').inputExpandPro();
+* $('#id_of_input_or_textarea').inputExpandPro();
+* $('input').inputExpandPro({ width: 20, height: 20 });
 
 Defaults:
 

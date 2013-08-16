@@ -1,7 +1,9 @@
 //
-//  jquery.auto-expand.js
+//  jquery.input-expand-pro.js
 //  Auto expanding Plugin Version 1.0
 //	Auto expanding Plugin for Auto expanding inputs and textareas
+//
+//  Forked by Alexander Bech on 2013-08-16 - https://github.com/AlexanderBech/InputExpandPro
 //
 //  Created by Robbie Bardijn on 2012-12-03.
 //  Copyright 2012 Robbie Bardijn. All rights reserved.

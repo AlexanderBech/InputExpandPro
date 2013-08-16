@@ -18,7 +18,9 @@ Defaults:
 		height : 20		// the default height(for textareas) to add in as extra offset
 	};
 	
-Author:
+Author
+===========
 
 Forked by Alexander Bech on 2013-08-16
+
 Created by Robbie Bardijn on 2012-12-03.

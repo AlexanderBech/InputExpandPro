@@ -13,7 +13,7 @@
 		width : 20,
 		height : 20
 	};
-	$.fn.autoExpand = function(options){
+	$.fn.inputExpandPro = function(options){
 		var defaults = $.extend({}, _defaults, options);
 
 		function addText($input) {
